@@ -45,7 +45,7 @@ All commands and the overall structure are written in a way that makes customiza
 ### 2. Get Pair Code
 
 Deploy a small helper to generate a **pair code** and obtain your session string.
- <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/MEGA-MD' target="_blank">
+ <a href='https://heroku.com/deploy?template=git clone https://github.com/mruniquehacker/Knightbot-Mini' target="_blank">
       <img alt='Deploy In Heroku' src='https://img.shields.io/badge/-DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 <div align="center">
